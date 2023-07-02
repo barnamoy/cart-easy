@@ -1,0 +1,9 @@
+.toast{
+    
+    /* background: red; */
+}
+.custoast{
+    right: 0;
+    position: absolute;
+    z-index: 100;
+}
